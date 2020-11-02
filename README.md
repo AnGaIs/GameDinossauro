@@ -1,6 +1,6 @@
 # Projeto "Jogo Dinossauro" 
 
-Este projeto faz parte do Bootcamp: "JavaScript Game Developer".
+Este projeto faz parte do Bootcamp: "React Native Mobile Developer".
 
 Clone do Jogo Dinossaro sem internet
 
